@@ -1,0 +1,9 @@
+hubwinbin_drop
+==============
+
+Compiled version of https://github.com/github/hub[hub] for Windows. Added here as a convenient and accessible place from which to fetch it in the future.
+
+ tim@OFFICE-PC ~/Repositories/hubwinbin_drop (master)
+ $ ./hub --version
+ git version 1.9.4.msysgit.2
+ hub version 2.2.0-preview1
